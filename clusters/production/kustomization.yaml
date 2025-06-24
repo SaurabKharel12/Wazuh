@@ -1,0 +1,6 @@
+resources:
+  - wazuh.yaml
+  - helm-repositories.yaml
+  - longhorn.yaml
+  - cert-manager.yaml
+  - stakater.yaml
